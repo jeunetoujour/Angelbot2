@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AngelBot">
+</Property><Property Name="Solution File" Value="E:\AngelSuite\AionSource\Angelbot 2.x\AngelBot.sln">
+</Property><Property Name="User Options File" Value="E:\AngelSuite\AionSource\Angelbot 2.x\AngelBot.suo">
+</Property><Property Name="Date" Value="Saturday, July 03, 2010">
+</Property><Property Name="Time" Value="9:58 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AngelBot.sln" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelBot.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AngelBot.suo" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelBot.suo">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AngelBot.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelBot.csproj">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AngelBot.csproj.user" Description="Project user file successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelBot.csproj.user">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AboutBox1.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AboutBox1.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Form1.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Form1.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Form2.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Form2.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="IniFile.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\IniFile.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="IniSection.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\IniSection.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="KeyEnum.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\KeyEnum.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Program.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="settings.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\settings.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="SKeys.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\SKeys.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="SkillEditor.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\SkillEditor.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="SkillEditor.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\SkillEditor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="TakeOver.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\TakeOver.cs">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="app.config" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Properties\app.manifest" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AboutBox1.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Form1.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Form2.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="settings.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\settings.resx">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="SkillEditor.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\SkillEditor.resx">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AngelBot.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AngelBot" Source="AngelBot.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\AngelRead.csproj">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Buff.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Buff.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Buffs.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Buffs.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Vector.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Vector.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Offsets.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Offsets.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\SkillList.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\SkillList.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Enums.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Enums.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Ability.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Ability.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\AbilityList.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\AbilityList.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\EntityList.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\EntityList.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Tools.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Tools.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\ILocation.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\ILocation.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Entity.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Entity.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Location.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Location.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Player.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Player.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Target.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Instanced Classes\Target.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Memory.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Memory.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Process.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Process.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Angelbot 2.x\Backup\AngelRead\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AngelBot.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AngelBot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AngelBot" Source="AngelBot.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
